@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Roboto:ital,wght@0,300;0,500;1,100;1,300;1,900&display=swap');
+.mainBody_right_container{
+    width: 100%;
+    height: 100%;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    flex-direction: column;
+    /* background-image: url('../Assets/img7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
+    color:#3f3c3c;
+    /* z-index: 3; */
+    /* opacity: 0.5; */
+
+}
