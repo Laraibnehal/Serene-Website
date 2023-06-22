@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <>
       <div className="shadow-lg w-full p-4 md:px-8 flex justify-between items-center fixed top-0 left-0 bg-gray-100">
-        <p>Screne</p>
+        <p>Serene</p>
         <i
           className="fa-solid fa-bars md:hidden font-thin"
           onClick={toggleMobileMenu}
