@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ["Poppins"],
+      cursive: ["Abril Fatface"],
     },
     extend: {
       keyframes: {

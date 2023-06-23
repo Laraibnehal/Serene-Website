@@ -1,8 +1,13 @@
 import React from "react";
 
 // Assets
-import Perfume1 from "../assets/perfume1.jpg";
+import Perfume1 from '../assets/perfume1.jpg';
 import Perfume2 from "../assets/perfume2.jpg";
+
+// Pages
+import About from "./About";
+import Products from "./Products";
+import Features from "./Features";
 
 const Home = () => {
   return (
@@ -11,6 +16,10 @@ const Home = () => {
         <img src={Perfume1} className="w-1/2 overflow-hidden" />
         <img src={Perfume2} className="w-1/2 overflow-hidden" />
       </div>
+
+      <About />
+      <Products />
+      <Features />
     </div>
   );
 };
