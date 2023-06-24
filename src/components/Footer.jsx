@@ -2,24 +2,25 @@ import React from "react";
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
-    <div className="w-screen p-4 md:p-8 md:py-12 bg-yellow-950 text-white ">
+    <div className="w-screen p-4 md:p-8 md:py-1 bg-yellow-950 text-white ">
       <div className="">
         <div className="flex flex-col md:flex-row justify-between">
           <div className="flex flex-col">
-           <Link to="/terms" className="my-2 text-xs px-6 py-3 ml-5">
+           <Link to="/terms" className="my-2 text-xs px-6 py-2 ml-5">
               Terms & Conditions
            </Link>
-           <Link to="/refund-policy" className="my-2 text-xs px-6 py-3 ml-5">
+          
+           <Link to="/refund-policy" className="my-2 text-xs px-6 py-2 ml-5">
               Refund Policy
            </Link>
-           <Link to="/privacy-policy" className="my-2 text-xs px-6 py-3 ml-5">
+           <Link to="/privacy-policy" className="my-2 text-xs px-6 py-2 ml-5">
               Privacy Policy
            </Link>
-           <Link to="/Cancellation-policy" className="my-2 text-xs px-6 py-3 ml-5">
+           <Link to="/Cancellation-policy" className="my-2 text-xs px-6 py-2 ml-5">
               Cancellation Policy
            </Link>
           </div>
-           <div className=" text-xl px-9 py-4 mx-9 my-4 justify-center text-center ">
+           <div className=" text-xl px-8 py-3 mx-9 my-4 justify-center text-center ">
            <h2 className="pb-5">Contact Us at</h2>
 
             <p className="ml-2 flex mx-6 py-4"><span className="mx-3 ">Phone - </span> +91 9073228268</p>
