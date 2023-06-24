@@ -2,7 +2,7 @@ import React from "react";
 
 const Cards = ({ image, cost, name, description, ratings, quantity }) => {
   return (
-    <div className="w-[300px] cursor-pointer shadow-lg">
+    <div className="w-[95%] md:w-[300px] cursor-pointer shadow-lg">
       {image && <img src={image} className="w-full h-[250px] object-cover" />}
       <div className="p-4">
         <p className="text-2xl">
