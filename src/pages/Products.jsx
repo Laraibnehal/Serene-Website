@@ -7,6 +7,8 @@ import { Cards } from "../components";
 
 import Adira30 from "../assets/adira-30.jpg";
 import Cher30 from "../assets/cher-30.jpg";
+import Lubov30 from "../assets/lubov-30.jpeg";
+import ArcaneTester from "../assets/imgtester.jpeg"
 
 const Products = () => {
   return (
@@ -22,8 +24,8 @@ const Products = () => {
             description={
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
-            quantity={"10 ML"}
-            cost={"299 /-"}
+            quantity={"30 ML"}
+            cost={"379 /-"}
           />
           <Cards
             image={Cher30}
@@ -32,25 +34,25 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"599 /-"}
+            cost={"379 /-"}
           />
           <Cards
-            image={Adira30}
-            name="Adira"
-            description={
-              "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
-            }
-            quantity={"10 ML"}
-            cost={"299 /-"}
-          />
-          <Cards
-            image={Cher30}
-            name="Cher"
+            image={Lubov30}
+            name="Lubov"
             description={
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"599 /-"}
+            cost={"379 /-"}
+          />
+          <Cards
+            image={ArcaneTester}
+            name="Arcane"
+            description={
+              "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
+            }
+            quantity={"2 ML"}
+            cost={"30 /-"}
           />
         </div>
       </div>
@@ -78,23 +80,23 @@ const Products = () => {
             quantity={"30 ML"}
             cost={"599 /-"}
           />
-          <Cards
-            image={Adira30}
-            name="Adira"
-            description={
-              "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
-            }
-            quantity={"10 ML"}
-            cost={"299 /-"}
-          />
-          <Cards
-            image={Cher30}
-            name="Cher"
+       <Cards
+            image={Lubov30}
+            name="Lubov"
             description={
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"599 /-"}
+            cost={"379 /-"}
+          />
+          <Cards
+            image={ArcaneTester}
+            name="Arcane"
+            description={
+              "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
+            }
+            quantity={"2 ML"}
+            cost={"30 /-"}
           />
         </div>
       </div>

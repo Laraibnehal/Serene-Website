@@ -22,14 +22,14 @@ const Footer = () => {
               Cancellation Policy
             </Link>
           </div>
-          <div className=" text-xl px-9 py-4 mx-9 my-4 justify-center text-center ">
+          <div className=" text-xl px-9 py-4 mx-9 my-4 justify-center text-center md:flex-column">
             <h2 className="pb-5">Contact Us at</h2>
 
             <p className="ml-2 flex mx-6 py-4">
-              <span className="mx-3 ">Phone - </span> +91 9073228268
+              <span className="mx-3 md:px-4 md:flex-row">Phone - </span> +91 9073228268
             </p>
             <p className="ml-2 flex">
-              <span className="mx-3">Email -</span> perfumeserene@gmail.com
+              <span className="mx-3 md:p-8 md:py-1">Email -</span> perfumeserene@gmail.com
             </p>
           </div>
           <div className="">
