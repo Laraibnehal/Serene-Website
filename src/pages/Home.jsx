@@ -1,7 +1,7 @@
 import React from "react";
 
 // Assets
-import Perfume1 from '../assets/perfume1.jpg';
+import Perfume1 from "../assets/perfume1.jpg";
 import Perfume2 from "../assets/perfume2.jpg";
 
 // Pages
@@ -12,9 +12,15 @@ import Features from "./Features";
 const Home = () => {
   return (
     <div className="w-screen">
-      <div className="w-full h-screen flex items-center justify-center overflow-hidden">
-        <img src={Perfume1} className="w-1/2 overflow-hidden" />
-        <img src={Perfume2} className="w-1/2 overflow-hidden" />
+      <div className="w-full h-screen flex flex-col md:flex-row items-center justify-center overflow-hidden">
+        <img
+          src={Perfume1}
+          className="w-full md:w-1/2 overflow-hidden object-cover"
+        />
+        <img
+          src={Perfume2}
+          className="w-full md:w-1/2 overflow-hidden object-cover"
+        />
       </div>
 
       <About />
