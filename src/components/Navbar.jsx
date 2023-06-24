@@ -11,7 +11,8 @@ const Navbar = () => {
   return (
     <>
       <div className="shadow-lg w-full p-4 md:px-8 sticky flex justify-between items-center top-0 left-0 bg-gray-100">
-        <p>Serene</p>
+        <p>
+        <Link to="/" className="my-2 text-xl">Serene</Link></p>
         <i
           className="fa-solid fa-bars md:hidden font-thin"
           onClick={toggleMobileMenu}
@@ -29,14 +30,8 @@ const Navbar = () => {
               <i class="fa-solid fa-xmark"></i>
             </div>
 
-            <Link to="/perfumes" className="my-2 text-xl">
-              Perfumes
-            </Link>
-            <Link to="/home-fragrances" className="my-2 text-xl">
-              Home Fragrances
-            </Link>
-            <Link to="/hand-bodycare" className="my-2 text-xl">
-              Hand & Bodycare
+            <Link to="/all-perfumes" className="my-2 text-xl">
+              All Perfumes
             </Link>
             <Link to="/gifts" className="my-2 text-xl">
               Gifts
@@ -50,14 +45,10 @@ const Navbar = () => {
 
         {/* Web Menu */}
         <div className="hidden md:block md:ml-10">
-          <Link to="/home-fragrances" className="mx-3">
-            Home Fragrances
-          </Link>
-          <Link to="/hand-bodycare" className="mx-3">
-            Hand & Bodycare
-          </Link>
-          <Link to="/perfumes" className="mx-3">
-            Perfumes
+         
+         
+          <Link to="/all-perfumes" className="mx-3">
+            All Perfumes
           </Link>
           <Link to="/gifts" className="mx-3">
             Gifts

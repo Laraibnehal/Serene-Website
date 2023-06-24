@@ -6,4 +6,6 @@ export { default as Services } from "./Services";
 export {default as Terms} from "./Terms";
 export {default as RefundPolicy} from "./RefundPolicy";
 export {default as PrivacyPolicy} from "./PrivacyPolicy";
-export {default as HomeFragrance} from "./HomeFragrance";
+export {default as AllPerfumes} from "./AllPerfumes";
+export {default as CancellationPolicy} from "./CancellationPolicy";
+export {default as Gifts} from "./Gifts";
