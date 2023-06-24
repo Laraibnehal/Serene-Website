@@ -67,7 +67,6 @@ function Termsconditions() {
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>Payment may be made via Visa, MasterCard, Diners  or by bank transfer into the our bank account, the details of which will be provided on request.</p>
     <p className='bg-stone-700 mx-5 py-6 px-3'>Credit card acquiring and security</p>
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>Credit card transactions will be acquired for us via PayU or PayTM who are the approved payment gateway for all Indian Acquiring Banks. PayU and PayTM use the strictest form of encryption, namely Secure Socket Layer 3 (SSL3) and no credit card details are stored on the website. Users may go to www.payu.in or www.paytm.com to view their security certificate and security policy.</p>
-    <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>Customer details will be stored by us separately from card details which are entered by the client on PayU or PayTM’s secure site. For more detail on PayU refer to www.payu.in or PayTM refer to www.paytm.com.</p>
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>Merchant Outlet country and transaction currency</p>
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>The merchant outlet country at the time of presenting payment options to the cardholder is India. Transaction currency is Indian Rupee (INR).</p>
 
