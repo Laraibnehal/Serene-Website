@@ -2,13 +2,13 @@ import React from "react";
 
 const ServicesContainer = ({ logo,feature,description }) => {
   return (
-    <div className="border-2 flex-col justify-between border-sky-400 p-2 w-[90%] md:w-[250px]  my-3 md:my-0 md:mx-3 cursor-pointer hover:bg-sky-600 hover:text-white  h-56 rounded-3xl">
+    <div className="border-2 flex-col justify-between border-sky-900 p-2 w-[90%] md:w-[250px]  my-3 md:my-0 md:mx-3 cursor-pointer hover:bg-sky-600 hover:text-white  h-56 rounded-3xl">
  
 
           
  <p style={{
         fontSize: "26px",
-        color: "rgb(56 189 248)",
+        color: "rgb(12 74 110)",
         margin: "0",
         padding: "0",
         textAlign:"left"

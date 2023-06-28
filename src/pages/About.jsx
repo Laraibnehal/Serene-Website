@@ -32,7 +32,7 @@ const About = () => {
             }
           />
         </div>
-        <div className="min-h-[600px] border-sky-600 border-2 hidden md:block"></div>
+        <div className="min-h-[600px] border-sky-900 border-2 hidden md:block"></div>
         <div>
           <AboutParagraphComponent
             description={

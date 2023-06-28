@@ -26,7 +26,7 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={"Rs. 379 /-"}
           />
           <Cards
             image={Cher30}
@@ -35,7 +35,7 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={"Rs. 379 /-"}
           />
           <Cards
             image={Lubov30}
@@ -44,7 +44,7 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={"Rs. 379 /-"}
           />
           <Cards
             image={ArcaneTester}
@@ -53,10 +53,10 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"2 ML"}
-            cost={"30 /-"}
+            cost={"Rs. 30 /-"}
           />
         <Link to='/all-perfumes'>
-          <button className=" text-black hover:text-white   hover:bg-sky-600  text-center bg-white rounded-md w-32 ml-3 mb-2 border-2 border-black hover:border-white p-2 mt-7">See More</button>
+          <button className=" text-black hover:text-white   hover:bg-sky-900  text-center bg-white rounded-md w-32 ml-3 mb-2 border-2 border-black hover:border-white p-2 mt-7">See More</button>
         </Link>
         </div>
       </div>
@@ -73,7 +73,7 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"10 ML"}
-            cost={"299 /-"}
+            cost={"Rs. 299 /-"}
           />
           <Cards
             image={Cher30}
@@ -82,7 +82,7 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"599 /-"}
+            cost={"Rs. 599 /-"}
           />
        <Cards
             image={Lubov30}
@@ -91,7 +91,7 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={"Rs. 379 /-"}
           />
           <Cards
             image={ArcaneTester}
@@ -100,11 +100,11 @@ const Products = () => {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"2 ML"}
-            cost={"30 /-"}
+            cost={"Rs. 30 /-"}
           />
         </div>
         <Link to='/all-perfumes'>
-          <button className=" text-black hover:text-white   hover:bg-sky-600  text-center bg-white rounded-md w-32 ml-3 mb-2 border-2 border-black hover:border-white p-2 mt-7">See More</button>
+          <button className=" text-black hover:text-white   hover:bg-sky-900  text-center bg-white rounded-md w-32 ml-3 mb-2 border-2 border-black hover:border-white p-2 mt-7">See More</button>
         </Link>
       </div>
     </>

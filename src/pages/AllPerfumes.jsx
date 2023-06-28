@@ -38,7 +38,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={" Rs. 379 /-"}
           />
           <Cards
             image={Cher30}
@@ -47,7 +47,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={" Rs. 379 /-"}
           />
           <Cards
             image={Lubov30}
@@ -56,7 +56,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={" Rs. 379 /-"}
           />
           <Cards
             image={ArcaneTester}
@@ -65,7 +65,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"2 ML"}
-            cost={"30 /-"}
+            cost={"Rs. 30 /-"}
           />
           <Cards
             image={Arcane10}
@@ -74,7 +74,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"10 ML"}
-            cost={"249 /-"}
+            cost={" Rs. 249 /-"}
           />
           <Cards
             image={Lubov}
@@ -83,7 +83,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"30 ML"}
-            cost={"379 /-"}
+            cost={" Rs. 379 /-"}
           />
           <Cards
             image={Jasmin10}
@@ -92,7 +92,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"10 ML"}
-            cost={"279 /-"}
+            cost={" Rs. 279 /-"}
           />
           <Cards
             image={Musk}
@@ -101,7 +101,7 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"10 ML"}
-            cost={"249 /-"}
+            cost={"Rs. 249 /-"}
           />
           <Cards
             image={Arsh}
@@ -110,16 +110,16 @@ function AllPerfumes() {
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"10 ML"}
-            cost={"279 /-"}
+            cost={" Rs. 279 /-"}
           />
           <Cards
             image={Jasmin30}
-            name="Jasmin"
+            name="Jasmine"
             description={
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
             quantity={"10 ML"}
-            cost={"389 /-"}
+            cost={" Rs. 389 /-"}
           />
       
         </div>
