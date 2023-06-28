@@ -21,7 +21,7 @@ function AllPerfumes() {
 <h1 className='text-2xl text-sky-600 font-semibold w-80'>Grab Upto 20% Off on <span className='flex'>Selected Perfumes</span></h1>
 
 <Link to = '#Perfumes'>
-<button className='bg-sky-600 hover:bg-white px-6 py-2 my-3 rounded-full text-white hover:text-sky-600'>Buy Now</button>
+<button className='bg-sky-600 hover:bg-white px-6 py-2 my-3 rounded-full text-white hover:text-sky-600 border-2 border-sky-600'>Buy Now</button>
 </Link>
     </div>
 <div className='float-right hidden md:block'>

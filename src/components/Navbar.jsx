@@ -10,9 +10,9 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="shadow-lg w-full p-4 md:px-8 sticky flex justify-between items-center top-0 left-0 bg-gray-100">
+      <div className="shadow-lg w-full p-4 md:px-8 sticky flex justify-between items-center  top-0 left-0 bg-gray-100">
         <p>
-        <Link to="/" className="my-2 text-xl">
+        <Link to="/" className="my-2 text-xl hover:text-sky-600">
          Serene
         </Link></p>
         <i
@@ -32,13 +32,16 @@ const Navbar = () => {
               <i class="fa-solid fa-xmark"></i>
             </div>
 
-            <Link to="/all-perfumes" className="my-2 text-xl">
+            <Link to="/all-perfumes" className="my-2 text-xl  hover:text-sky-600">
               All Perfumes
             </Link>
-            <Link to="/gifts" className="my-2 text-xl">
+            <Link to="/gifts" className="my-2 text-xl hover:text-sky-600">
               Gifts
             </Link>
-            <Link to="/cart" className="my-2 text-xl">
+            <Link to="#about" className="my-2 text-xl hover:text-sky-600">
+              About Us
+            </Link>
+            <Link to="/cart" className="my-2 text-xl hover:text-sky-600">
               Your Cart
               <i className="fa-solid fa-cart-shopping ml-4" />
             </Link>
@@ -49,16 +52,19 @@ const Navbar = () => {
         <div className="hidden md:block md:ml-10">
          
          
-          <Link to="/all-perfumes" className="mx-3">
+          <Link to="/all-perfumes" className="mx-3 hover:text-sky-600">
             All Perfumes
           </Link>
-          <Link to="/gifts" className="mx-3">
+          <Link to="/gifts" className="mx-3 hover:text-sky-600">
             Gifts
+          </Link>
+          <Link to="#about" className="mx-3 scroll-smooth hover:text-sky-600">
+            About Us
           </Link>
         </div>
 
         {/* Web Menu */}
-        <div className="hidden md:block">
+        <div className="hidden md:block hover:text-sky-600">
           <Link to="/cart">
             Your Cart
             <i className="fa-solid fa-cart-shopping ml-4" />

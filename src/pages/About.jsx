@@ -15,7 +15,7 @@ const AboutParagraphComponent = ({ description, className }) => {
 
 const About = () => {
   return (
-    <div className="w-full p-4 md:p-8 md:py-16 flex flex-col items-center justify-center">
+    <div className="w-full p-4 md:p-8 md:py-16 flex flex-col items-center justify-center " >
       <h1 className="font-cursive text-7xl text-gray-600 mb-10 text-center">
         about serene
       </h1>
@@ -32,7 +32,7 @@ const About = () => {
             }
           />
         </div>
-        <div className="min-h-[600px] border-orange-900 border-2 hidden md:block"></div>
+        <div className="min-h-[600px] border-sky-600 border-2 hidden md:block"></div>
         <div>
           <AboutParagraphComponent
             description={

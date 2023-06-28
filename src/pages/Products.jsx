@@ -60,7 +60,7 @@ const Products = () => {
         </Link>
         </div>
       </div>
-
+//best seller
       <div className="w-full p-4 md:p-8 md:py-16 flex flex-col items-center justify-center">
         <h1 className="text-center font-cursive text-7xl text-gray-600 mb-10">
           best seller fragrances

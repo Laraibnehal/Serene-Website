@@ -2,22 +2,22 @@ import React from "react";
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
-    <div className="w-screen p-4 md:p-8 md:py-1 bg-yellow-950 text-white ">
+    <div className="w-screen p-4 md:p-8 md:py-1 bg-sky-950 text-white ">
       <div className="">
         <div className="flex flex-col md:flex-row justify-between">
           <div className="flex flex-col">
-            <Link to="/terms" className="my-2 text-xs px-6 py-3 ml-5">
+            <Link to="/terms" className="my-2 text-xs px-6 py-3 ml-5 hover:text-sky-600">
               Terms & Conditions
             </Link>
-            <Link to="/refund-policy" className="my-2 text-xs px-6 py-3 ml-5">
+            <Link to="/refund-policy" className="my-2 text-xs px-6 py-3 ml-5 hover:text-sky-600">
               Refund Policy
             </Link>
-            <Link to="/privacy-policy" className="my-2 text-xs px-6 py-3 ml-5">
+            <Link to="/privacy-policy" className="my-2 text-xs px-6 py-3 ml-5 hover:text-sky-600">
               Privacy Policy
             </Link>
             <Link
               to="/Cancellation-policy"
-              className="my-2 text-xs px-6 py-3 ml-5"
+              className="my-2 text-xs px-6 py-3 ml-5 hover:text-sky-600"
             >
               Cancellation Policy
             </Link>
