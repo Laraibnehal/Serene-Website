@@ -16,19 +16,19 @@ const Navbar = () => {
          Serene
         </Link></p>
         <i
-          className="fa-solid fa-bars md:hidden font-thin"
+          className="fa fa-bars md:hidden font-thin"
           onClick={toggleMobileMenu}
         />
 
         {/* Mobile Menu */}
         <div
-          className={`w-[80%] fixed top-0 h-screen ${
+          className={`w-[60%] fixed top-0 h-screen ${
             showMobileMenu ? "right-0" : "right-[-80%]"
           } md:hidden transition-all duration-300`}
         >
           <div className="backdrop-blur-md flex p-6 flex-col justify-center w-full h-full">
             {/* Close Button */}
-            <div className="absolute top-5 right-5 z-50" onClick={toggleMobileMenu}>
+            <div className="absolute top-12 right-20 text-3xl z-50 flex-1 " onClick={toggleMobileMenu}>
               <i class="fa-solid fa-xmark"></i>
             </div>
 
