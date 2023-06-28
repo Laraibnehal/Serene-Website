@@ -1,4 +1,5 @@
 import { HomePage, ErrorPage, Terms, RefundPolicy, PrivacyPolicy,CancellationPolicy, Gifts,AllPerfumes } from "./pages";
+import { Cart } from "./components";
 
 const routes = [
   {
@@ -41,6 +42,12 @@ const routes = [
     key: "8",
     path: "all-perfumes",
     element: <AllPerfumes />,
+    errorElement: <ErrorPage/>
+  },
+  {
+    key: "9",
+    path: "cart",
+    element: <Cart />,
     errorElement: <ErrorPage/>
   }
 ];

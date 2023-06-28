@@ -28,7 +28,7 @@ const Navbar = () => {
         >
           <div className="backdrop-blur-md flex p-6 flex-col justify-center w-full h-full">
             {/* Close Button */}
-            <div className="absolute top-5 right-5" onClick={toggleMobileMenu}>
+            <div className="absolute top-5 right-5 z-50" onClick={toggleMobileMenu}>
               <i class="fa-solid fa-xmark"></i>
             </div>
 
