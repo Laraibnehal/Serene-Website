@@ -1,6 +1,7 @@
 import React from "react";
 
 import { Cards } from "../components";
+import { Link } from "react-router-dom";
 
 // External Imports
 // import { Carousel } from "@trendyol-js/react-carousel";
@@ -17,7 +18,7 @@ const Products = () => {
         <h1 className="font-cursive text-7xl text-gray-600 mb-10 text-center">
           gallery
         </h1>
-        <div className="my-4 w-full flex flex-col md:flex-row items-center justify-center gap-8 md:gap-2">
+        <div className="my-4 w-full flex flex-wrap md:flex-row items-center justify-center gap-8 md:gap-2">
           <Cards
             image={Adira30}
             name="Adira"
@@ -54,6 +55,9 @@ const Products = () => {
             quantity={"2 ML"}
             cost={"30 /-"}
           />
+        <Link to='/all-perfumes'>
+          <button className=" text-black hover:text-white   hover:bg-sky-600  text-center bg-white rounded-md w-32 ml-3 mb-2 border-2 border-black hover:border-white p-2 mt-7">See More</button>
+        </Link>
         </div>
       </div>
 
@@ -99,6 +103,9 @@ const Products = () => {
             cost={"30 /-"}
           />
         </div>
+        <Link to='/all-perfumes'>
+          <button className=" text-black hover:text-white   hover:bg-sky-600  text-center bg-white rounded-md w-32 ml-3 mb-2 border-2 border-black hover:border-white p-2 mt-7">See More</button>
+        </Link>
       </div>
     </>
   );

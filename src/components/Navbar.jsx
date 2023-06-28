@@ -3,7 +3,7 @@ import React, { useState } from "react";
 
 // External Imports
 import { Link } from "react-router-dom";
-
+import Logo from '../assets/serene logo(black) (1).png'
 const Navbar = () => {
   const [showMobileMenu, setShowMobileMenu] = useState(false);
   const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
@@ -12,7 +12,9 @@ const Navbar = () => {
     <>
       <div className="shadow-lg w-full p-4 md:px-8 sticky flex justify-between items-center top-0 left-0 bg-gray-100">
         <p>
-        <Link to="/" className="my-2 text-xl">Serene</Link></p>
+        <Link to="/" className="my-2 text-xl">
+         Serene
+        </Link></p>
         <i
           className="fa-solid fa-bars md:hidden font-thin"
           onClick={toggleMobileMenu}
