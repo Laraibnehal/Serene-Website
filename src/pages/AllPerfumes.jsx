@@ -118,7 +118,7 @@ function AllPerfumes() {
             description={
               "Unleash your inner enchantress with this mesmerizing fragrance, wherever you go."
             }
-            quantity={"10 ML"}
+            quantity={"30 ML"}
             cost={" Rs. 389 /-"}
           />
       

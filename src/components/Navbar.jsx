@@ -38,7 +38,7 @@ const Navbar = () => {
             <Link to="/gifts" className="my-2 text-xl hover:text-sky-900">
               Gifts
             </Link>
-            <Link to="#about" className="my-2 text-xl hover:text-sky-900">
+            <Link to="/#about" className="my-2 text-xl hover:text-sky-900">
               About Us
             </Link>
             <Link to="/cart" className="my-2 text-xl hover:text-sky-900">

@@ -1,4 +1,4 @@
-import { HomePage, ErrorPage, Terms, RefundPolicy, PrivacyPolicy,CancellationPolicy, Gifts,AllPerfumes } from "./pages";
+import { HomePage, ErrorPage, Terms, RefundPolicy, PrivacyPolicy,CancellationPolicy, Gifts,AllPerfumes, About } from "./pages";
 import { Cart } from "./components";
 
 const routes = [
@@ -49,7 +49,15 @@ const routes = [
     path: "cart",
     element: <Cart />,
     errorElement: <ErrorPage/>
-  }
+  },
+  {
+    key: "10",
+    path: "about",
+    element: <About />,
+    errorElement: <ErrorPage/>
+  },
+
+
 ];
 
 export default routes;

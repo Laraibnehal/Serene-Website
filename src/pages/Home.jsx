@@ -1,8 +1,8 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 // Assets
 import Perfume1 from "../assets/perfume1.jpg";
-import Perfume2 from "../assets/perfume2.jpg";
+import Perfume2 from "../assets/imgbox.jpeg";
 
 // Pages
 import About from "./About";
@@ -23,7 +23,9 @@ const Home = () => {
         />
       </div>
 
+
       <About id="about" className="scroll-smooth"/>
+
       <Products />
       <Features />
     </div>
