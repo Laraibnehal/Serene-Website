@@ -4,7 +4,6 @@ import React, { useState } from "react";
 // External Imports
 import { Link } from "react-router-dom";
 import Logo from '../assets/serene logo(black) (1).png'
-import Contact from "../pages/Contact";
 const Navbar = () => {
   const [showMobileMenu, setShowMobileMenu] = useState(false);
   const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
