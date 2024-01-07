@@ -4,6 +4,7 @@ import React, { useState } from "react";
 // External Imports
 import { Link } from "react-router-dom";
 import Logo from '../assets/serene logo(black) (1).png'
+import Contact from "../pages/Contact";
 const Navbar = () => {
   const [showMobileMenu, setShowMobileMenu] = useState(false);
   const toggleMobileMenu = () => setShowMobileMenu(!showMobileMenu);
@@ -38,8 +39,11 @@ const Navbar = () => {
             <Link to="/gifts" className="my-2 text-xl hover:text-sky-900">
               Gifts
             </Link>
-            <Link to="/#about" className="my-2 text-xl hover:text-sky-900">
+            <Link to="/about" className="my-2 text-xl hover:text-sky-900">
               About Us
+            </Link>
+            <Link to="/about" className="my-2 text-xl hover:text-sky-900">
+              Contact Us
             </Link>
             <Link to="/cart" className="my-2 text-xl hover:text-sky-900">
               Your Cart
@@ -58,8 +62,11 @@ const Navbar = () => {
           <Link to="/gifts" className="mx-3 hover:text-sky-900">
             Gifts
           </Link>
-          <Link to="#about" className="mx-3 scroll-smooth hover:text-sky-900">
+          <Link to="/about" className="mx-3 scroll-smooth hover:text-sky-900">
             About Us
+          </Link>
+          <Link to="/contact" className="mx-3 scroll-smooth hover:text-sky-900">
+            Contact Us
           </Link>
         </div>
 

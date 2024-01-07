@@ -1,5 +1,6 @@
 import { HomePage, ErrorPage, Terms, RefundPolicy, PrivacyPolicy,CancellationPolicy, Gifts,AllPerfumes, About } from "./pages";
 import { Cart } from "./components";
+import Contact from "./pages/Contact";
 
 const routes = [
   {
@@ -54,6 +55,12 @@ const routes = [
     key: "10",
     path: "about",
     element: <About />,
+    errorElement: <ErrorPage/>
+  },
+  {
+    key: "11",
+    path: "contact",
+    element: <Contact/>,
     errorElement: <ErrorPage/>
   },
 
