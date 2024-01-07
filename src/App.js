@@ -8,15 +8,8 @@ import Axios from 'axios'
 import { Footer, Navbar, NotificationBar } from "./components";
 
 const App = () => {
-  const [data,setData]=useState("")
-  const getData= async()=>{
-    const response = await Axios.get('http://localhost:3000/getData',data);
-    setData(response.data)
 
-  }
-  useEffect(()=>{
-    getData()
-  },[])
+ 
   return (
    
     <div className="w-screen min-h-screen bg-gray-100">
@@ -33,7 +26,7 @@ const App = () => {
       </Routes>
       <Footer />
   
-      {data}
+      
     </div>
  
   );

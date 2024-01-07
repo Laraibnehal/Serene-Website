@@ -5,7 +5,7 @@ import Perfume1 from "../assets/perfume1.jpg";
 import Perfume2 from "../assets/imgbox.jpeg";
 
 // Pages
-import About from "./About";
+// import About from "./About";
 import Products from "./Products";
 import Features from "./Features";
 
@@ -24,7 +24,7 @@ const Home = () => {
       </div>
 
 
-      <About id="about" className="scroll-smooth"/>
+      {/* <About id="about" className="scroll-smooth"/> */}
 
       <Products />
       <Features />

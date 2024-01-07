@@ -26,12 +26,12 @@ const addToCart = () => {
 
       <div className="p-2 text-black hover:text-white   hover:bg-sky-600  text-center bg-white rounded-full w-32 ml-3 mb-2 border-2 border-black hover:border-white">
         {/* <p className="text-white">Rs {cost}</p> */}
-        <h2>Cart Value: {cartValue}</h2>
+
         <Link to='#'>
         <button onClick={addToCart}>Add to Cart</button>
 
         </Link>
-      </div>
+      </div>y
       <div className="p-2 text-black hover:text-white   hover:bg-sky-900  text-center bg-white rounded-full w-32 ml-3 mb-2 border-2 border-black hover:border-white">
         {/* <p className="text-white">Rs {cost}</p> */}
         <Link to='/cart'>

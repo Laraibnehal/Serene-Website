@@ -39,7 +39,16 @@ const About = () => {
               "Step into the world of Serene, where every fragrance is a whisper of elegance, a caress of femininity, and a celebration of life's precious moments. Whether you seek a fragrance that captivates with its timeless allure or one that radiates with the vibrancy of a new beginning, our collection offers a scent to suit every mood and occasion. Indulge in the intoxicating allure of Serene by Laraib Nehal and let the fragrances awaken your senses, ignite your imagination, and evoke a sense of serenity that lingers long after the perfume settles on your skin. Welcome to a world where beauty knows no boundaries and where every breath is an invitation to experience the extraordinary."
             }
           />
+          <AboutParagraphComponent
+          description={
+            "Explore our diverse range of signature collections, each designed to evoke a distinct mood and embrace your individuality. From the fresh and invigorating notes of our Daydream Collection to the sultry and mysterious allure of our Midnight Elegance line, there's a Serene Perfume for every moment and every personality."
+            
+          }
+          />
+
+        
         </div>
+
       </div>
       <Services />
     </div>

@@ -4,7 +4,7 @@ function PrivacyPolicy () {
   
     return (
         <div className='py-4 px-9 mx-9 text-center my-6 bg-slate-300 rounded-b-full rounded-l-full rounded-tr-full rounded-ss-full'>
-        <h3 className='text-center my-4 bg-black text-black  rounded-full
+        <h3 className='text-center my-4 bg-black text-white  rounded-full
          mx-5 py-2 px-3  w-1/4'>Privacy Policy</h3>
       
         <br />

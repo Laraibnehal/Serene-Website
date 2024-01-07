@@ -1,13 +1,14 @@
 
 [
     {
+        "id": "1",
         "name": "Cher",
         "description":"A captivating perfume blending delicate florals, zesty citrus, and enchanting musk for a truly captivating scent experience.",
         "ratings":"5",
         "price":"Rs. 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/cher-30.jpg"
+        "image" : "/assets/cher-30.jpg"
     },
     {
         "name":"Arcane",
@@ -82,10 +83,6 @@
         "available-Item":10,
         "image" : "../assets/"
     },
-
-
-
-
 
     {
         "name": "Cher",
