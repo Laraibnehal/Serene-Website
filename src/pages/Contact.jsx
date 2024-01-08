@@ -12,7 +12,7 @@ function Contact() {
       loading="lazy" 
       referrerPolicy="no-referrer-when-downgrade"></iframe>
       <div>
-        <div className='md:w-full m-auto max-w-42 w-1/4 text-center '>
+        <div className='md:w-1/4 m-auto max-w-42 w-full text-center '>
             <form action="https://formspree.io/f/xqkrkokl" method='POST' className='flex flex-col gap-12  justify-center '>
                 <input type="text" name="name" placeholder="Name" required autoComplete='off' className='p-2 mt-4'/>
                 <input type="email" name="Email" placeholder="Email" required autoComplete='off' className='p-2 mt-3'/>
