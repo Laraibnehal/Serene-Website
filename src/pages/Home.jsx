@@ -24,7 +24,7 @@ const Home = () => {
       </div>
 
 
-      <About id="about" className="scroll-smooth"/>
+     
 
       <Products />
       <Features />
