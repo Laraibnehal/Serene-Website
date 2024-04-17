@@ -1,5 +1,5 @@
 import React , {useState} from 'react'
-import items from '../perfumeData.json'
+
 function Cart() {
   // const [cartItems, setCartItems] = useState([]);
   const [currentItemIndex, setCurrentItemIndex] = useState(0);
