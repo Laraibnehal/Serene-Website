@@ -1,0 +1,265 @@
+
+[
+    {
+        "name": "Cher",
+        "description":"A captivating perfume blending delicate florals, zesty citrus, and enchanting musk for a truly captivating scent experience.",
+        "ratings":"5",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/cher-30.jpg"
+    },
+    {
+        "name":"Arcane",
+        "description":"An enchanting fragrance blending captivating florals, spicy accents, musky undertones, and a touch of sweetness for an alluring sensory experience.",
+        "ratings":"4",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/Arcane 10ml.jp"
+
+    },
+    {
+        "name":"Lubov",
+        "description":"A captivating perfume blending delicate florals, seductive musk, and a hint of sweet allure.",
+        "ratings":"4",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+    {
+        "name":"Verena",
+        "description":"A captivating fragrance blending the delicate allure of floral blossoms, the sensual warmth of musk, and a touch of sweet and juicy fruits.",
+        "ratings":"5",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+    {
+        "name":"Adira",
+        "description":"A captivating perfume blending spicy warmth, musky allure, and creamy elegance.",
+        "ratings":"5",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+    {
+        "name":"Arsh",
+        "description":"A captivating fragrance blending spicy warmth, delicate floral notes, and the allure of white musk.",
+        "ratings":"5",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+    {
+        "name":"Orphic Musk",
+        "description":"An enchanting fragrance with a captivating blend of white musk that evokes elegance and allure.",
+        "ratings":"5",
+        "price":" 279",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+    {
+        "name":"Irenic Oud",
+        "description":"A captivating perfume blending the rich essence of Kashmiri oud with the tantalizing allure of fruity notes.",
+        "ratings":"5",
+        "price":" 279",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+    {
+        "name":"Jasmine",
+        "description":"An exquisite fragrance with delicate jasmine and enchanting floral notes, evoking a captivating sensory journey.",
+        "ratings":"5",
+        "price":" 249",
+        "quantity":"10ml",
+        "available-Item":10,
+        "image" : "../assets/"
+    },
+
+
+
+
+
+    {
+        "name": "Cher",
+        "description":"A captivating perfume blending delicate florals, zesty citrus, and enchanting musk for a truly captivating scent experience.",
+        "ratings":"5",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/cher-30.jpg"
+    },
+    {
+        "name":"Arcane",
+        "description":"An enchanting fragrance blending captivating florals, spicy accents, musky undertones, and a touch of sweetness for an alluring sensory experience.",
+        "ratings":"4",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+
+    },
+    {
+        "name":"Lubov",
+        "description":"A captivating perfume blending delicate florals, seductive musk, and a hint of sweet allure.",
+        "ratings":"4",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/lubov-30.jpeg"
+    },
+    {
+        "name":"Verena",
+        "description":"A captivating fragrance blending the delicate allure of floral blossoms, the sensual warmth of musk, and a touch of sweet and juicy fruits.",
+        "ratings":"5",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Adira",
+        "description":"A captivating perfume blending spicy warmth, musky allure, and creamy elegance.",
+        "ratings":"5",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Arsh",
+        "description":"A captivating fragrance blending spicy warmth, delicate floral notes, and the allure of white musk.",
+        "ratings":"5",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Orphic Musk",
+        "description":"An enchanting fragrance with a captivating blend of white musk that evokes elegance and allure.",
+        "ratings":"5",
+        "price":" 479",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Irenic Oud",
+        "description":"A captivating perfume blending the rich essence of Kashmiri oud with the tantalizing allure of fruity notes.",
+        "ratings":"5",
+        "price":" 479",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Jasmine",
+        "description":"An exquisite fragrance with delicate jasmine and enchanting floral notes, evoking a captivating sensory journey.",
+        "ratings":"5",
+        "price":" 379",
+        "quantity":"30ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "name": "Cher",
+        "description":"A captivating perfume blending delicate florals, zesty citrus, and enchanting musk for a truly captivating scent experience.",
+        "ratings":"5",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Arcane",
+        "description":"An enchanting fragrance blending captivating florals, spicy accents, musky undertones, and a touch of sweetness for an alluring sensory experience.",
+        "ratings":"4",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+
+    },
+    {
+        "name":"Lubov",
+        "description":"A captivating perfume blending delicate florals, seductive musk, and a hint of sweet allure.",
+        "ratings":"4",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Verena",
+        "description":"A captivating fragrance blending the delicate allure of floral blossoms, the sensual warmth of musk, and a touch of sweet and juicy fruits.",
+        "ratings":"5",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Adira",
+        "description":"A captivating perfume blending spicy warmth, musky allure, and creamy elegance.",
+        "ratings":"5",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Arsh",
+        "description":"A captivating fragrance blending spicy warmth, delicate floral notes, and the allure of white musk.",
+        "ratings":"5",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Orphic Musk",
+        "description":"An enchanting fragrance with a captivating blend of white musk that evokes elegance and allure.",
+        "ratings":"5",
+        "price":" 279",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Irenic Oud",
+        "description":"A captivating perfume blending the rich essence of Kashmiri oud with the tantalizing allure of fruity notes.",
+        "ratings":"5",
+        "price":" 279",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    },
+    {
+        "name":"Jasmine",
+        "description":"An exquisite fragrance with delicate jasmine and enchanting floral notes, evoking a captivating sensory journey.",
+        "ratings":"5",
+        "price":" 679",
+        "quantity":"60ml",
+        "available-Item":10,
+        "image": "../assets/"
+    }
+
+]
