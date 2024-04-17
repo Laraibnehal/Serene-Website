@@ -7,7 +7,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/cher-30.jpg"
+       
     },
     {
         "name":"Arcane",
@@ -16,7 +16,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/Arcane 10ml.jp"
+      
 
     },
     {
@@ -26,7 +26,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+     
     },
     {
         "name":"Verena",
@@ -35,7 +35,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+   
     },
     {
         "name":"Adira",
@@ -44,7 +44,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+       
     },
     {
         "name":"Arsh",
@@ -53,7 +53,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+      
     },
     {
         "name":"Orphic Musk",
@@ -62,7 +62,7 @@
         "price":" 279",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+      
     },
     {
         "name":"Irenic Oud",
@@ -71,7 +71,7 @@
         "price":" 279",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+ 
     },
     {
         "name":"Jasmine",
@@ -80,7 +80,7 @@
         "price":" 249",
         "quantity":"10ml",
         "available-Item":10,
-        "image" : "../assets/"
+  
     },
 
 
@@ -94,7 +94,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/cher-30.jpg"
+    
     },
     {
         "name":"Arcane",
@@ -103,7 +103,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+      
 
     },
     {
@@ -113,7 +113,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/lubov-30.jpeg"
+       
     },
     {
         "name":"Verena",
@@ -122,7 +122,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+  
     },
     {
         "name":"Adira",
@@ -131,7 +131,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+      
     },
     {
         "name":"Arsh",
@@ -140,7 +140,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+   
     },
     {
         "name":"Orphic Musk",
@@ -149,7 +149,7 @@
         "price":" 479",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+
     },
     {
         "name":"Irenic Oud",
@@ -158,7 +158,7 @@
         "price":" 479",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+   
     },
     {
         "name":"Jasmine",
@@ -167,7 +167,7 @@
         "price":" 379",
         "quantity":"30ml",
         "available-Item":10,
-        "image": "../assets/"
+  
     },
 
 
@@ -186,7 +186,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+  
     },
     {
         "name":"Arcane",
@@ -195,7 +195,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+      
 
     },
     {
@@ -205,7 +205,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+     
     },
     {
         "name":"Verena",
@@ -214,7 +214,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+     
     },
     {
         "name":"Adira",
@@ -223,7 +223,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+      
     },
     {
         "name":"Arsh",
@@ -232,7 +232,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+
     },
     {
         "name":"Orphic Musk",
@@ -241,7 +241,7 @@
         "price":" 279",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+   
     },
     {
         "name":"Irenic Oud",
@@ -250,7 +250,7 @@
         "price":" 279",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+  
     },
     {
         "name":"Jasmine",
@@ -259,7 +259,7 @@
         "price":" 679",
         "quantity":"60ml",
         "available-Item":10,
-        "image": "../assets/"
+      
     }
 
 ]
