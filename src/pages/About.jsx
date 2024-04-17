@@ -1,7 +1,10 @@
-import React from "react";
+import React   from "react";
 
 // Components
 import Services from "./Services";
+// import { useContext } from "react";
+import { useProductContext } from "../context/ProductContext";
+// import { AppContext } from "../context/ProductContext";
 
 const AboutParagraphComponent = ({ description, className }) => {
   return (
@@ -14,8 +17,10 @@ const AboutParagraphComponent = ({ description, className }) => {
 };
 
 const About = () => {
+  const myname = useProductContext()
   return (
     <div className="w-full p-4 md:p-8 md:py-16 flex flex-col items-center justify-center " >
+   {myname}
       <h1 className="font-cursive text-7xl text-gray-600 mb-10 text-center">
         about serene
       </h1>

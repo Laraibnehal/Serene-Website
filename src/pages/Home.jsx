@@ -8,6 +8,7 @@ import Perfume2 from "../assets/imgbox.jpeg";
 import About from "./About";
 import Products from "./Products";
 import Features from "./Features";
+import Item from "./Item";
 
 const Home = () => {
   return (
@@ -24,10 +25,12 @@ const Home = () => {
       </div>
 
 
-      <About id="about" className="scroll-smooth"/>
+      {/* <About id="about" className="scroll-smooth"/> */}
 
       <Products />
+      {/* <Item/> */}
       <Features />
+      {/* <Footers/> */}
     </div>
   );
 };

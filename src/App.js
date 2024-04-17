@@ -5,18 +5,20 @@ import {React, useEffect, useState } from "react";
 import routes from "./routes";
 import Axios from 'axios'
 // Components
-import { Footer, Navbar, NotificationBar } from "./components";
+import { Navbar, NotificationBar } from "./components";
+import Footers from "./components/Footers";
+import Error from "./pages/Error";
 
 const App = () => {
-  const [data,setData]=useState("")
-  const getData= async()=>{
-    const response = await Axios.get('http://localhost:3000/getData',data);
-    setData(response.data)
+  // const [data,setData]=useState("")
+  // const getData= async()=>{
+  //   const response = await Axios.get('http://localhost:3000/getData',data);
+  //   setData(response.data)
 
-  }
-  useEffect(()=>{
-    getData()
-  },[])
+  // }
+  // useEffect(()=>{
+  //   getData()
+  // },[])
   return (
    
     <div className="w-screen min-h-screen bg-gray-100">
@@ -31,9 +33,10 @@ const App = () => {
           <Route {...route} key={index} />
         ))}
       </Routes>
-      <Footer />
+      {/* <Error/> */}
+      <Footers/>
   
-      {data}
+      {/* {data} */}
     </div>
  
   );
