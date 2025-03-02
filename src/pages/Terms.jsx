@@ -12,7 +12,7 @@ function Termsconditions() {
     <div className='py-4 px-9 mx-9 text-center my-6 bg-slate-300 '>
       
     <p className=' px-6 my-3'>Welcome to Perfume Serene. These Terms and Conditions govern your use of the Perfume Serene website located at www.perfumeserene.com (the “Site”) and your relationship with Perfume Serene (referred to as “Perfume Serene”, “we” or “us”). Please read them carefully as they affect your rights and liabilities under the law. If you do not agree to these Terms and Conditions, please do not register for or use the Site. In these Terms and Conditions, “you” and “your” means any person who accesses and uses the Site or the services offered on the Site.</p>
-    <p className='  mx-5 py-2 px-3 bg-red-100 md:w-1/2 w-1/2 justify-self-center'>Registration</p>
+    <p className='  mx-5 py-2 px-3 bg-red-100 md:w-1/2 w-1/2 text-center justify-self-center'>Registration</p>
     <p className='mx-5 py-6  px-6 my-3'>To use some of the services or features made available to you on this Site you will need to register. When you register you are required to provide information about yourself that is true, accurate, current, and complete in all respects. Should any of your registration information change, please notify us immediately at the following e-mail address <a className ="text-teal-500"href="mailto:perfumeserene@gmail.com">Send mail</a></p>
     <p className=' px-6 my-3'>The account password you provide should be unique and kept secure, and you must notify Perfume Serene immediately of any breach of security or unauthorized use of your account.</p>
     <p className='bg-red-100 md:w-1/2 w-1/2  text-center justify-self-center mx-5 py-2 px-3'>Eligibility to Purchase</p>
@@ -23,7 +23,7 @@ function Termsconditions() {
     <p className='mx-5 py-2 px-3 bg-red-100 md:w-1/2 w-1/2 text-center justify-self-center'>Order Acceptance</p>
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>All orders are subject to acceptance and availability. When you place an order on our Site we will send you an email confirming receipt of your order. This email is only an acknowledgement for information purposes and it does not constitute acceptance of your order by us. Your order will be accepted and the contract between you and Perfume Serene will be completed when we send you an email to confirm the goods have been dispatched to you. Only the goods listed in the confirmation email sent at the time of dispatch are included in the contract formed.</p>
    
-    <p className=' mx-5 py-2 px-3 bg-red-100 md:w-1/2 w-1/2 justify-self-center '>Acceptable Payment Methods</p>
+    <p className=' mx-5 py-2 px-3 bg-red-100 md:w-1/2 w-1/2 text-center justify-self-center '>Acceptable Payment Methods</p>
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>We accept Visa, MasterCard and Net Banking. Payment is only debited from your card at time of dispatch.</p>
     <p className='text-justify px-6 my-3 text-sm font-medium tracking-wide font-mono'>Please note that we cannot guarantee the security of data when you send us by email. Accordingly, please do not send us payment information using email. For details of the security measures we employ please read our Privacy Policy.</p>
     <p className='bg-red-100 md:w-1/4 w-1/2  text-center justify-self-center mx-5 py-2 px-3'>Delivery</p>
