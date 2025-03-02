@@ -9,7 +9,7 @@ function Termsconditions() {
     </div>
     <div>
     <h2 className='bg-neutral-300 px-6 my-6 mx-8 py-5'>READ THESE TERMS AND CONDITIONS CAREFULLY.</h2>
-    <div className='py-4 px-2 mx-9 text-center my-6 bg-slate-300 md:px-9'>
+    <div className='py-4 px-2 mx-9 text-center my-6 bg-slate-300 md:px-5'>
       
     <p className=' px-6 my-3'>Welcome to Perfume Serene. These Terms and Conditions govern your use of the Perfume Serene website located at www.perfumeserene.com (the “Site”) and your relationship with Perfume Serene (referred to as “Perfume Serene”, “we” or “us”). Please read them carefully as they affect your rights and liabilities under the law. If you do not agree to these Terms and Conditions, please do not register for or use the Site. In these Terms and Conditions, “you” and “your” means any person who accesses and uses the Site or the services offered on the Site.</p>
     <p className='  mx-5 py-2 px-3 bg-red-100 md:w-1/2 w-1/2 text-center justify-self-center'>Registration</p>
